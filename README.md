@@ -40,3 +40,8 @@ This project helped me improve my skills in data analysis, reporting, and dashbo
 I am currently learning and practicing Excel, Power BI, SQL, Python, Power Query, and AI for Data Analytics to build more data-driven projects and enhance my analytical skills.
 
 Thank you to Satish Dhawale and Skill Course for providing practical, hands-on learning that helped me create this project.
+
+<img src="https://github.com/ramyakurva/Excel_Dashboard/blob/faf7076140d05479e6843c77f71a7509d651f3df/Dashboards.png" alt="Image Description" width="600">
+
+
+
