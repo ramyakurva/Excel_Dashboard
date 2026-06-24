@@ -18,9 +18,13 @@ Key Insights Included:
 10. Consumer Type-wise Quantity Ordered
 
 Dashboard Highlights:
+
 ✔ Total Sales: ₹58,20,182
+
 ✔ Average Sales: ₹582.37
+
 ✔ Transactions: 9,994
+
 ✔ Quantity Sold: 25,123
 
 Tools Used:
